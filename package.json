@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "fullstack javascripts web application using node js and react",
+  "main": "index.js",
+  "dependencies": {
+    "express-generator": "^4.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5731048321-TT/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5731048321-TT/resume/issues"
+  },
+  "homepage": "https://github.com/5731048321-TT/resume#readme"
+}
